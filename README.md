@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a simple repository created for the purpose of demonstrating how to create an attractive README.md file using Markdown syntax. It includes customized section headings and showcases Markdown features such as headings, lists, and links.
+This is a simple repository created for the purpose of demonstrating how to create an attractive README.md file using Markdown syntax. It includes customized section headings and showcases Markdown features such as headings, bold, italic, and links.
 
 ## Files Used
 
